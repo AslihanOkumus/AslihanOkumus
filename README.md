@@ -30,7 +30,7 @@ I'm passionate about developing intelligent systems and exploring how artificial
 - Autonomous Systems
 
 ### 📫 Connect with Me
-- LinkedIn: [My LinkedIn Profile](LINKEDIN_LINK)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/asl%C4%B1han-okumu%C5%9F-2a54b725b)
 
 ---
 
