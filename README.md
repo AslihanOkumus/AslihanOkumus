@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Aslıhan Okumuş! 👋
 
-<!--
-**AslihanOkumus/AslihanOkumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Graduate | MSc Student at Bursa Technical University**
 
-Here are some ideas to get you started:
+I'm currently pursuing my Master's degree in Computer Engineering at Bursa Technical University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about developing intelligent systems and exploring how artificial intelligence can solve real-world problems.
+
+### 🚀 Areas of Interest
+- Artificial Intelligence
+- Computer Vision
+- Image Processing
+- Deep Learning
+- Machine Learning
+- Robotics
+
+### 💻 Technologies & Tools
+- Python
+- C / C++
+- C#
+- OpenCV
+- TensorFlow
+- ROS 2
+- MATLAB
+
+### 🌱 Currently Learning
+- Advanced Image Processing
+- Deep Learning
+- Computer Vision
+- Autonomous Systems
+
+### 📫 Connect with Me
+- LinkedIn: [My LinkedIn Profile](LINKEDIN_LINK)
+
+---
+
+⭐ Thanks for visiting my profile!
